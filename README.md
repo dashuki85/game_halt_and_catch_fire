@@ -1,5 +1,4 @@
-# game_halt_and_catch_fire
-#
+
 ## About
 #
 # The game simulator is based on the events of the series of the same name,
